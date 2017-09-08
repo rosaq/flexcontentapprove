@@ -27,13 +27,6 @@
       "sourceScreenId": "app.login.loginconfident",
       "sourceAppId": "universaltemplates",
       "model": "login"
-    },
-    {
-      "id": "postscaptivating",
-      "name": "Posts-Captivating",
-      "sourceScreenId": "app.postsnews.postscaptivating",
-      "sourceAppId": "universaltemplates",
-      "model": "postscaptivating"
     }
   ],
   "sourceAppId": "_blank",

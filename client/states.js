@@ -42,14 +42,5 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
-    }).state('app.postscaptivating', {
-        views: {
-            app: {
-                controller: 'app_postscaptivating',
-                templateProvider: function (app) {
-                    return app.templateProvider('app.postscaptivating');
-                }
-            }
-        }
     });
 });
