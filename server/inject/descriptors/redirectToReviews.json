@@ -1,5 +1,12 @@
 {
   "type": "object",
-  "properties": {},
+  "properties": {
+    "isRedirectToReviews": {
+      "type": "string",
+      "control": "property.innerHTML",
+      "selector": "h3",
+      "selectContains": "My Profile"
+    }
+  },
   "connect": []
 }
