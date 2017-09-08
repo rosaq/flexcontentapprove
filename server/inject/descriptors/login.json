@@ -31,7 +31,9 @@
       "label": "errorMessage",
       "update": {
         "type": "none"
-      }
+      },
+      "selector": ".alert.alert-block.alert-danger.messages.error",
+      "control": "property.innerText"
     },
     "submit": {
       "type": "action",
