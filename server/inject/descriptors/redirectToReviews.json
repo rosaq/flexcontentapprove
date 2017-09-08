@@ -17,7 +17,7 @@
   "connect": [
     {
       "match": [],
-      "event": "clickReviewsLink"
+      "action": "clickReviwsLink"
     }
   ]
 }
