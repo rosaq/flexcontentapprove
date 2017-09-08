@@ -32,8 +32,7 @@
       "id": "viewposts",
       "name": "viewPosts",
       "sourceScreenId": "app.viewissues",
-      "sourceAppId": "mantisalan",
-      "model": "viewissues"
+      "sourceAppId": "mantisalan"
     }
   ],
   "sourceAppId": "_blank",
