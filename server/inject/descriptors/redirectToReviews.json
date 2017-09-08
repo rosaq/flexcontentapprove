@@ -7,12 +7,17 @@
       "selector": "h3",
       "selectContains": "My Profile"
     },
-    "clickReviwsLink": {
-      "type": "string",
+    "clickReviewsLink": {
+      "type": "action",
       "selector": "a[href]",
       "control": "action.link",
       "selectContains": "Needs review"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [],
+      "event": "clickReviewsLink"
+    }
+  ]
 }
