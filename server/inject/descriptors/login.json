@@ -47,6 +47,11 @@
       },
       "selector": "#edit-submit",
       "control": "action.button"
+    },
+    "isLogin": {
+      "type": "identifier",
+      "selector": "#user-login",
+      "control": "exists"
     }
   },
   "connect": []
