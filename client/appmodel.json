@@ -57,6 +57,12 @@
             },
             "post_title": {
               "type": "string"
+            },
+            "post_author": {
+              "type": "string"
+            },
+            "post_last_updated": {
+              "type": "string"
             }
           }
         }
