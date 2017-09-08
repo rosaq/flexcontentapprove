@@ -29,5 +29,12 @@
       }
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [],
+      "screens": [
+        "viewposts"
+      ]
+    }
+  ]
 }
