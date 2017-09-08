@@ -4,5 +4,10 @@
   "defaultLayout": "phone-portrait",
   "previewToken": "18224097",
   "uiCommonVersion": "5.1.2",
-  "creatorId": "gdlrquin"
+  "creatorId": "gdlrquin",
+  "id": "flexcontentapprove",
+  "previewImageURL": "/previews/18224097-flexcontentapprove/app/blank.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/rosaq/flexcontentapprove",
+  "creatorName": "Rosa Quintero"
 }
