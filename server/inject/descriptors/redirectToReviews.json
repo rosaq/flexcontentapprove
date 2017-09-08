@@ -9,7 +9,7 @@
     },
     "clickReviwsLink": {
       "type": "string",
-      "selector": "a",
+      "selector": "a[href]",
       "control": "action.link",
       "selectContains": "Needs review"
     }
