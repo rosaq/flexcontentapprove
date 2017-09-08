@@ -3,7 +3,7 @@
   "properties": {
     "isRedirectToReviews": {
       "type": "string",
-      "control": "property.innerHTML",
+      "control": "exists",
       "selector": "h3",
       "selectContains": "My Profile"
     }
