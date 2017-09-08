@@ -29,8 +29,8 @@
       "model": "login"
     },
     {
-      "id": "viewissues",
-      "name": "viewissues",
+      "id": "viewposts",
+      "name": "viewPosts",
       "sourceScreenId": "app.viewissues",
       "sourceAppId": "mantisalan",
       "model": "viewissues"
