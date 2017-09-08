@@ -42,5 +42,25 @@
         }
       }
     }
+  },
+  "posts_list": {
+    "type": "object",
+    "comment": "List with all the posts",
+    "properties": {
+      "need_review_posts": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "post_id": {
+              "type": "string"
+            },
+            "post_title": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
   }
 }
