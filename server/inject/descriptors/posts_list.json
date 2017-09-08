@@ -1,0 +1,33 @@
+{
+  "type": "object",
+  "comment": "List with all the posts",
+  "properties": {
+    "need_review_posts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "post_id": {
+            "type": "string"
+          },
+          "post_title": {
+            "type": "string"
+          },
+          "post_author": {
+            "type": "string"
+          },
+          "post_last_updated": {
+            "type": "string"
+          },
+          "post_status_draft": {
+            "type": "boolean"
+          },
+          "post_status_published": {
+            "type": "boolean"
+          }
+        }
+      }
+    }
+  },
+  "connect": []
+}
