@@ -9,8 +9,9 @@
     },
     "clickReviwsLink": {
       "type": "string",
-      "selector": "a[href=\"http://sandbox2.flex.com.924elmp01.blackmesh.com/admin/workbench/needs-review\"]",
-      "control": "action.link"
+      "selector": "a",
+      "control": "action.link",
+      "selectContains": "Needs review"
     }
   },
   "connect": []
